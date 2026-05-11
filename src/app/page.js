@@ -74,7 +74,7 @@ export default function Home() {
           fontWeight: '300',
           opacity: 0.9
         }}>
-          Calidad y compromiso en cada proyecto
+          Sitio en construcción
         </p>
       </div>
 

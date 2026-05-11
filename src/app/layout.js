@@ -13,7 +13,6 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Valdora Construcciones",
-  description: "Página en construcción",
   icons: {
     icon: "/app/favicon.ico", 
     apple: "/app/favicon.ico",
